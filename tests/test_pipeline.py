@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from train import build_pipeline
+from src.train import build_pipeline
 
 
 class PipelineTests(unittest.TestCase):
